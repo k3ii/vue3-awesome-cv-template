@@ -1,15 +1,24 @@
 {
   "header": {
-    "firstName": "Mario",
-    "lastName": "Mario",
+    "firstName": "Jain",
+    "lastName": "Ramchurn",
     "title": "Professional Plumber · Hero of the Mushroom Kingdom",
     "address": "123 Pipe Street, Mushroom Kingdom, 12345",
     "phone": "(+1) 555-JUMP-MAN",
     "homepage": "www.supermario.com",
     "socials": [
-      { "name": "Google", "url": "mario@gmail.com" },
-      { "name": "Github", "url": "itsamemario" },
-      { "name": "Linkedin", "url": "mariobros" }
+      {
+        "name": "at",
+        "url": "mario@gmail.com"
+      },
+      {
+        "name": "Github",
+        "url": "itsamemario"
+      },
+      {
+        "name": "Linkedin",
+        "url": "mariobros"
+      }
     ],
     "quote": "It's-a me, Mario! Let's-a go!"
   },
